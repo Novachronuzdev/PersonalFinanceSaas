@@ -1,0 +1,239 @@
+{
+  "version": 1,
+  "years": [
+    2026
+  ],
+  "userProfile": {
+    "name": "Gabriel Henrique Assis Rocha",
+    "email": "g44brielk@gmail.com",
+    "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=150&auto=format&fit=crop&q=80",
+    "currency": "BRL",
+    "monthlySavingsGoal": 1621,
+    "theme": "dark",
+    "pinProtection": false
+  },
+  "categories": [
+    {
+      "id": "cat-alimentacao",
+      "name": "Alimentação",
+      "type": "despesa",
+      "icon": "Utensils",
+      "color": "#f97316"
+    },
+    {
+      "id": "cat-moradia",
+      "name": "Moradia",
+      "type": "despesa",
+      "icon": "Home",
+      "color": "#3b82f6"
+    },
+    {
+      "id": "cat-agua",
+      "name": "Água",
+      "type": "despesa",
+      "icon": "Droplets",
+      "color": "#06b6d4"
+    },
+    {
+      "id": "cat-energia",
+      "name": "Energia elétrica",
+      "type": "despesa",
+      "icon": "Zap",
+      "color": "#eab308"
+    },
+    {
+      "id": "cat-internet",
+      "name": "Internet",
+      "type": "despesa",
+      "icon": "Wifi",
+      "color": "#6366f1"
+    },
+    {
+      "id": "cat-telefone",
+      "name": "Telefone",
+      "type": "despesa",
+      "icon": "Phone",
+      "color": "#8b5cf6"
+    },
+    {
+      "id": "cat-transporte",
+      "name": "Transporte",
+      "type": "despesa",
+      "icon": "Car",
+      "color": "#10b981"
+    },
+    {
+      "id": "cat-saude",
+      "name": "Saúde",
+      "type": "despesa",
+      "icon": "HeartPulse",
+      "color": "#ec4899"
+    },
+    {
+      "id": "cat-educacao",
+      "name": "Educação",
+      "type": "despesa",
+      "icon": "GraduationCap",
+      "color": "#a855f7"
+    },
+    {
+      "id": "cat-lazer",
+      "name": "Lazer",
+      "type": "despesa",
+      "icon": "Sparkles",
+      "color": "#f43f5e"
+    },
+    {
+      "id": "cat-assinaturas",
+      "name": "Assinaturas",
+      "type": "despesa",
+      "icon": "Tv",
+      "color": "#14b8a6"
+    },
+    {
+      "id": "cat-compras",
+      "name": "Compras pessoais",
+      "type": "despesa",
+      "icon": "ShoppingBag",
+      "color": "#f59e0b"
+    },
+    {
+      "id": "cat-cartao",
+      "name": "Cartão de crédito",
+      "type": "despesa",
+      "icon": "CreditCard",
+      "color": "#ef4444"
+    },
+    {
+      "id": "cat-outros-desp",
+      "name": "Outros",
+      "type": "despesa",
+      "icon": "MoreHorizontal",
+      "color": "#64748b"
+    },
+    {
+      "id": "cat-salario",
+      "name": "Salário",
+      "type": "receita",
+      "icon": "Briefcase",
+      "color": "#10b981"
+    },
+    {
+      "id": "cat-freelance",
+      "name": "Freelances",
+      "type": "receita",
+      "icon": "Laptop",
+      "color": "#06b6d4"
+    },
+    {
+      "id": "cat-renda-extra",
+      "name": "Renda extra",
+      "type": "receita",
+      "icon": "Coins",
+      "color": "#f59e0b"
+    },
+    {
+      "id": "cat-investimentos",
+      "name": "Investimentos",
+      "type": "receita",
+      "icon": "TrendingUp",
+      "color": "#8b5cf6"
+    },
+    {
+      "id": "cat-outros-rec",
+      "name": "Outros",
+      "type": "receita",
+      "icon": "Wallet",
+      "color": "#64748b"
+    }
+  ],
+  "budgets": [],
+  "recurringRules": [],
+  "transactions": [
+    {
+      "title": "Fatura PiCPAY",
+      "amount": 196.62,
+      "type": "despesa",
+      "category": "Cartão de crédito",
+      "dueDate": "2026-12-10",
+      "paymentDate": null,
+      "month": 12,
+      "year": 2026,
+      "status": "pendente",
+      "description": "",
+      "isRecurring": false,
+      "recurrenceId": null,
+      "id": "418ff9e2-a553-4fbc-aa83-7791ce95096a",
+      "createdAt": "2026-11-11T16:26:40.350Z",
+      "updatedAt": "2026-11-11T16:26:40.350Z"
+    },
+    {
+      "title": "Salário mensal",
+      "amount": 701.08,
+      "type": "receita",
+      "category": "Salário",
+      "dueDate": "2026-12-05",
+      "paymentDate": "2026-12-05",
+      "month": 12,
+      "year": 2026,
+      "status": "recebido",
+      "description": "",
+      "isRecurring": false,
+      "recurrenceId": null,
+      "id": "2345f7c6-ef2d-4426-b376-ca510bbe352c",
+      "createdAt": "2026-11-11T16:34:22.735Z",
+      "updatedAt": "2026-11-11T16:34:22.735Z"
+    },
+    {
+      "title": "Mensalidade da faculdade",
+      "amount": 234.96,
+      "type": "despesa",
+      "category": "Educação",
+      "dueDate": "2026-12-10",
+      "paymentDate": null,
+      "month": 12,
+      "year": 2026,
+      "status": "pendente",
+      "description": "",
+      "isRecurring": false,
+      "recurrenceId": null,
+      "id": "f5231055-cb92-4d5e-bd1b-05a1b825ca24",
+      "createdAt": "2026-11-11T16:35:12.510Z",
+      "updatedAt": "2026-11-11T16:35:12.510Z"
+    },
+    {
+      "title": "Cartão de Crédito - Caixa",
+      "amount": 126.62,
+      "type": "despesa",
+      "category": "Educação",
+      "dueDate": "2026-12-07",
+      "paymentDate": null,
+      "month": 12,
+      "year": 2026,
+      "status": "pendente",
+      "description": "",
+      "isRecurring": false,
+      "recurrenceId": null,
+      "id": "f8197c73-04c6-4b0b-ab2d-6e59157949f9",
+      "createdAt": "2026-11-11T16:36:03.550Z",
+      "updatedAt": "2026-11-11T16:38:24.015Z"
+    },
+    {
+      "title": "Fatura do cartão de crédito - Banco do Brasil",
+      "amount": 22.86,
+      "type": "despesa",
+      "category": "Educação",
+      "dueDate": "2026-12-10",
+      "paymentDate": null,
+      "month": 12,
+      "year": 2026,
+      "status": "pendente",
+      "description": "",
+      "isRecurring": false,
+      "recurrenceId": null,
+      "id": "52cef11b-8237-4bb2-b16b-8a857006e2f7",
+      "createdAt": "2026-11-11T16:37:46.591Z",
+      "updatedAt": "2026-11-11T16:38:32.247Z"
+    }
+  ]
+}
